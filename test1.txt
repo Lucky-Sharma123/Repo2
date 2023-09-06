@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is DACE-FC29
+
+ Directory of C:\Users\lucky.sharma\Desktop\MyWork
+
+09/06/2023  07:54 PM    <DIR>          .
+09/06/2023  07:50 PM    <DIR>          ..
+09/06/2023  07:54 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  136,840,671,232 bytes free
